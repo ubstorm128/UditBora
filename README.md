@@ -5,7 +5,7 @@ I’m a student passionate about **cybersecurity**, **web development**, and **t
 ## 🚀 My Projects
 Here are a few projects I've worked on:
 - Tic-Tac-Toe game(link) – A command-line based Tic-Tac-Toe game developed in C, demonstrating understanding of game logic, input validation, and modular code design.
-- ATM Machine(link) – A simple ATM system built in C that allows users to perform basic banking operations like balance inquiry, deposit, and withdrawal using predefined account data. Ideal for practicing arrays, functions, and control structures.
+- ATM Machine(https://github.com/ubstorm128/ATMmachine.git) – A simple ATM system built in C that allows users to perform basic banking operations like balance inquiry, deposit, and withdrawal using predefined account data. Ideal for practicing arrays, functions, and control structures.
 
 ## 🛠️ Skills & Tools
 - **Languages**: C, JavaScript, Python
