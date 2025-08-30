@@ -4,7 +4,7 @@ I’m a student passionate about **cybersecurity**, **web development**, and **t
 
 ## 🛠️ Skills & Tools
 - **Languages**: C, JavaScript, Python
-- **Web Development**: HTML, CSS, JavaScrip
+- **Web Development**: HTML, CSS, JavaScript
 - **Cybersecurity**: Penetration Testing, Network Security, Cryptography
 - **Tools**: Git, GitHub, Kali Linux, Wireshark, VS Code
 
